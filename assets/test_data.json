@@ -1,0 +1,16 @@
+{
+    "test_questions": [
+        "What is computer vision?",
+        "How does unsupervised learning work?",
+        "What is reinforcement learning?",
+        "What is a convolutional neural network?",
+        "What are the applications of AI in healthcare?"
+    ],
+    "test_contexts": [
+        "Computer vision is a field of AI that enables machines to interpret and process visual data from the real world.",
+        "Unsupervised learning involves training a model on data without labeled outputs, allowing it to identify patterns and structures in the data.",
+        "Reinforcement learning is a machine learning paradigm where an agent learns by interacting with an environment and receiving rewards or penalties.",
+        "A convolutional neural network (CNN) is a deep learning model primarily used for processing visual data.",
+        "AI is used in healthcare for medical diagnosis, predictive analytics, robotic surgery, and drug discovery."
+    ]
+}

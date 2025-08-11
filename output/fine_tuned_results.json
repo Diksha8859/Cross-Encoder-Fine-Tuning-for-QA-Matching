@@ -1,0 +1,32 @@
+[
+    {
+        "question": "What is computer vision?",
+        "context": "Computer vision is a field of AI that enables machines to interpret and process visual data from the real world.",
+        "original_model_score": 10.699991226196289,
+        "fine_tuned_model_score": 10.722516059875488
+    },
+    {
+        "question": "How does unsupervised learning work?",
+        "context": "Unsupervised learning involves training a model on data without labeled outputs, allowing it to identify patterns and structures in the data.",
+        "original_model_score": 8.496461868286133,
+        "fine_tuned_model_score": 8.548160552978516
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "context": "Reinforcement learning is a machine learning paradigm where an agent learns by interacting with an environment and receiving rewards or penalties.",
+        "original_model_score": 10.734560012817383,
+        "fine_tuned_model_score": 10.759974479675293
+    },
+    {
+        "question": "What is a convolutional neural network?",
+        "context": "A convolutional neural network (CNN) is a deep learning model primarily used for processing visual data.",
+        "original_model_score": 10.864952087402344,
+        "fine_tuned_model_score": 10.887680053710938
+    },
+    {
+        "question": "What are the applications of AI in healthcare?",
+        "context": "AI is used in healthcare for medical diagnosis, predictive analytics, robotic surgery, and drug discovery.",
+        "original_model_score": 8.812318801879883,
+        "fine_tuned_model_score": 8.857922554016113
+    }
+]
